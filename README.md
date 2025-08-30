@@ -1,2 +1,9 @@
-# EECS3215-Project-DHT11
-IoT embedded systems project using Raspberry Pi and DHT11 sensor to collect, process, and visualize real-time temperature and humidity data.
+> 📌 Note: This project was originally completed in April 2024 as the final project for **EECS3215 (Embedded Systems)** at York University.  
+> It has now been uploaded to GitHub for documentation and portfolio purposes.
+
+# Raspberry Pi DHT11 IoT Project
+
+This project demonstrates an **IoT embedded system** built with a Raspberry Pi and a DHT11 digital sensor.  
+The system collects **real-time temperature and humidity data**, processes it using Python, and stores/visualizes the results for monitoring and analysis.  
+
+It was developed as the **final project for EECS3215 (Embedded Systems)** at York University, showcasing skills in **hardware-software integration, real-time data acquisition, and IoT pipeline design**.
