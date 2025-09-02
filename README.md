@@ -1,6 +1,9 @@
 > 📌 Note: This project was originally completed in April 2024 as the final project for **EECS3215 (Embedded Systems)** at York University.  
 > It has now been uploaded to GitHub for documentation and portfolio purposes.
 
+# Presentation:
+https://drive.google.com/file/d/1fu1slhjoeufAzjeJYn60jGghbimP61Hk/view
+
 # Raspberry Pi DHT11 IoT Project
 
 This project demonstrates an **IoT embedded system** built with a Raspberry Pi and a DHT11 digital sensor.  
