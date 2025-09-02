@@ -2,8 +2,7 @@
 > It has now been uploaded to GitHub for documentation and portfolio purposes.
 
 # Presentation:
-https://drive.google.com/file/d/1fu1slhjoeufAzjeJYn60jGghbimP61Hk/view
-
+https://drive.google.com/file/d/1G3sl7vw2ZvRW8jOQe5keyOPP662rmf4q/view
 # Raspberry Pi DHT11 IoT Project
 
 This project demonstrates an **IoT embedded system** built with a Raspberry Pi and a DHT11 digital sensor.  
